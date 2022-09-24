@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mareo87
 - 👀 I’m interested in WordPress
-- 🌱 I’m currently learning WordPress
+- 🌱 I’m currently learning Bootstrap
 - 💞️ I’m looking to collaborate on muhammad.my
 - 📫 How to reach me hello@muhammad.my
 
